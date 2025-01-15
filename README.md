@@ -1,6 +1,13 @@
 # My Bookmarks
 
-## Computer Science
+## Natural Sciences
+
+### Physics
+* https://profmattstrassler.com/blog/
+
+## Mathematics
+
+### Computer Science
 * Steve Wittens Blog: https://acko.net/
 
 ## Music
