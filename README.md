@@ -14,6 +14,7 @@
 
 ### WebHosting
 * [Creating a simple free website in 2025](https://mattsayar.com/creating-a-simple-free-website-in-2025/)
+* [Cloudflare Free Tier](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
 
 ## Music
 
