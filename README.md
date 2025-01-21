@@ -4,6 +4,7 @@
 
 ### Physics
 * [Matt Strassler Blog](https://profmattstrassler.com/blog/)
+* [Physics World](https://physicsworld.com/)
 
 ## Mathematics
 
