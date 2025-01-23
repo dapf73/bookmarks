@@ -13,6 +13,9 @@
 
 ## IT
 
+### DevOps
+* [Space Lift Blog](https://spacelift.io/blog)
+
 ### WebHosting
 * [Creating a simple free website in 2025](https://mattsayar.com/creating-a-simple-free-website-in-2025/)
 * [Cloudflare Free Tier](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
@@ -21,3 +24,7 @@
 
 ### Piano
 * [Piano Red](https://www.pianored.com/)
+
+## News
+
+
